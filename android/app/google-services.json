@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369052574866",
+    "project_id": "jobgo-b5a75",
+    "storage_bucket": "jobgo-b5a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369052574866:android:efcb72d2d336e03866324b",
+        "android_client_info": {
+          "package_name": "com.example.jobgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUr3wJiYgrcyXtLY_RN-s4PforL0kZGCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
