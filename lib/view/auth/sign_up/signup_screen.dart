@@ -161,10 +161,10 @@ class _SignUpScreenState extends State<SignUpScreen> {
                             child: Text(
                               "Login",
                               style: TextStyle(
-                                color: AppColors.yellow,
+                                color: AppColors.lightYellow,
                                 fontWeight: FontWeight.bold,
                                 decoration: TextDecoration.underline,
-                                decorationColor: AppColors.yellow,
+                                decorationColor: AppColors.lightYellow,
                                 fontSize: 12,
                               ),
                             ),

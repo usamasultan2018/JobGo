@@ -217,10 +217,10 @@ class LoginScreen extends StatelessWidget {
                           child:Text(
                             "Sign up ",
                             style: TextStyle(
-                              color: AppColors.yellow,
+                              color: AppColors.lightYellow,
                               fontWeight: FontWeight.bold,
                               decoration: TextDecoration.underline,
-                              decorationColor: AppColors.yellow,
+                              decorationColor: AppColors.lightYellow,
                               fontSize: 12,
                             ),
                           ),

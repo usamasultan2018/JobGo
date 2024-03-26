@@ -86,10 +86,10 @@ class SuccessfullyCheckMail extends StatelessWidget {
 
                     },
                     child: Text("Resend ",style: TextStyle(
-                      color: AppColors.yellow,
+                      color: AppColors.lightYellow,
                       fontWeight: FontWeight.bold,
                       decoration: TextDecoration.underline,
-                      decorationColor: AppColors.yellow,
+                      decorationColor: AppColors.lightYellow,
                       fontSize: 12,
                     ),),
                   )
